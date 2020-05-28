@@ -17,6 +17,7 @@
 - summarise( ): https://learnr-examples.shinyapps.io/ex-data-summarise/#section-summarise-groups-with-summarise
 2) Online Coding Club - Amazing resource with step-by-step R code for tidying data and data visualization! https://ourcodingclub.github.io/
 3) ggplot cookbook: http://www.cookbook-r.com/Graphs/
+4) Nick Kron (fellow Coding Club member) Tidyverse tutorial: https://github.com/Nicholas-Kron/PCfB_FALL_2019_Tidyverse/blob/master/PCfB_FALL2019_Tidyverse.rmd
 
 ## Online Courses
 1) Advanced Statistical Computing with R - Cal Poly: https://cal-poly-advanced-r.github.io/STAT-431/

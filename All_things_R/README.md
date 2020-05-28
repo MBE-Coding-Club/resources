@@ -20,6 +20,7 @@
 
 ## Online Courses
 1) Advanced Statistical Computing with R - Cal Poly: https://cal-poly-advanced-r.github.io/STAT-431/
+2) Harvard Data Science Workshops: https://iqss.github.io/dss-workshops/
 
 ## Free online books
 1) R for Data Science by Garrett Grolemund and Hadley Wickham: https://r4ds.had.co.nz/

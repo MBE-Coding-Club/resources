@@ -10,6 +10,7 @@
 5) Harvard Introduction to R Workshop: http://tutorials.iq.harvard.edu/R/Rintro/Rintro.html
 6) Rmarkdown tutorial: https://ourcodingclub.github.io/tutorials/rmarkdown/
 7) What They Forgot to Teach You About R (best practices): https://rstats.wtf/index.html
+8) Rstudio - A gentle intro to Tidy stats in R webinar: https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/
 
 ## Tidyverse Package: dplyr, ggplot, tidyr
 1) Interactive tutorial called "learnr" 

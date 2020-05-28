@@ -9,6 +9,7 @@
 4) A fun R advent calendar, "25 Days of R" for an intro: https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar
 5) Harvard Introduction to R Workshop: http://tutorials.iq.harvard.edu/R/Rintro/Rintro.html
 6) Rmarkdown tutorial: https://ourcodingclub.github.io/tutorials/rmarkdown/
+7) What They Forgot to Teach You About R (best practices): https://rstats.wtf/index.html
 
 ## Tidyverse Package: dplyr, ggplot, tidyr
 1) Interactive tutorial called "learnr" 
@@ -16,6 +17,9 @@
 - summarise( ): https://learnr-examples.shinyapps.io/ex-data-summarise/#section-summarise-groups-with-summarise
 2) Online Coding Club - Amazing resource with step-by-step R code for tidying data and data visualization! https://ourcodingclub.github.io/
 3) ggplot cookbook: http://www.cookbook-r.com/Graphs/
+
+## Online Courses
+1) Advanced Statistical Computing with R - Cal Poly: https://cal-poly-advanced-r.github.io/STAT-431/
 
 ## Free online books
 1) R for Data Science by Garrett Grolemund and Hadley Wickham: https://r4ds.had.co.nz/

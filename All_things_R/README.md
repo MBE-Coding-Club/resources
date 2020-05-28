@@ -20,3 +20,5 @@
 1) R for Data Science by Garrett Grolemund and Hadley Wickham: https://r4ds.had.co.nz/
 2) Fundamentals of Data Visualization by Claus Wilke: https://serialmentor.com/dataviz/
 
+## Github and R: 
+https://happygitwithr.com/

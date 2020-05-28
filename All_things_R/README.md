@@ -15,10 +15,12 @@
 - filter( ): https://learnr-examples.shinyapps.io/ex-data-filter/
 - summarise( ): https://learnr-examples.shinyapps.io/ex-data-summarise/#section-summarise-groups-with-summarise
 2) Online Coding Club - Amazing resource with step-by-step R code for tidying data and data visualization! https://ourcodingclub.github.io/
+3) ggplot cookbook: http://www.cookbook-r.com/Graphs/
 
 ## Free online books
 1) R for Data Science by Garrett Grolemund and Hadley Wickham: https://r4ds.had.co.nz/
 2) Fundamentals of Data Visualization by Claus Wilke: https://serialmentor.com/dataviz/
+3) The Art of Data Science by Roger D. Peng and Elizabeth Matsui: https://bookdown.org/rdpeng/artofdatascience/
 
 ## Github and R: 
 https://happygitwithr.com/

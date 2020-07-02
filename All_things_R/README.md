@@ -13,6 +13,9 @@
 8) Rstudio - A gentle intro to Tidy stats in R webinar: https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/
 9) Rstudio walkthroughs: https://rstudio.cloud/learn/primers
 
+## R Bootcamp
+https://r-bootcamp.netlify.app/
+
 ## Tidyverse Package: dplyr, ggplot, tidyr
 1) Interactive tutorial called "learnr" 
 - filter( ): https://learnr-examples.shinyapps.io/ex-data-filter/

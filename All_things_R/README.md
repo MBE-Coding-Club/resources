@@ -35,3 +35,8 @@ https://r-bootcamp.netlify.app/
 
 ## Github and R: 
 https://happygitwithr.com/
+
+## Ordination (PCA, PCoA, NMDS, vegan package) 
+https://ourcodingclub.github.io/tutorials/ordination/ 
+http://strata.uga.edu/8370/lecturenotes/multidimensionalScaling.html
+

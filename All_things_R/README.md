@@ -40,3 +40,7 @@ https://happygitwithr.com/
 https://ourcodingclub.github.io/tutorials/ordination/ 
 http://strata.uga.edu/8370/lecturenotes/multidimensionalScaling.html
 
+## Mapping in R
+http://rstudio.github.io/leaflet/
+
+
